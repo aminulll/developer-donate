@@ -26,7 +26,7 @@ h1{
     color: white;
 
 }
-p{
+.banner-description{
     color: white;
 }
 .btn-primary{
@@ -43,3 +43,43 @@ p{
 }
 
 /* main section style */
+
+.donate-today{
+    text-align: center;
+    margin-top: 130px;
+}
+.donate-title{
+    margin-bottom: 30px;
+    font-weight: 700;
+    size: 45px;
+    line-height: 54.46px;
+   
+
+}
+.donate-description{
+    color: #707070;
+    font-weight: 400;
+   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+   size: 18px;
+   line-height: 28px;
+  margin-bottom: 100px;
+
+}
+button{
+    color:  #707070;
+    padding: 28px 40px;
+    margin: 8px;
+    border: 1px solid blue;
+    border-radius: 5px;
+   
+}
+.tk-btn{
+    background-color:  #FFEEEE;
+    color:  #FF5959;
+    border: 1px solid #FF5959;
+   
+}
+button:hover{
+    color: #ae1212;
+}
+
